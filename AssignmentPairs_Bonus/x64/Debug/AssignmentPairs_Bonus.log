@@ -1,0 +1,5 @@
+﻿  AlbertMitchell_AssignmentPairs.cpp
+C:\Users\Mitch\OneDrive\Computer Science Files\C Plus\C Plus Spring\Assignments\AssignmentPairs_Bonus\AlbertMitchell_AssignmentPairs.cpp(69,2): error C2065: 'f': undeclared identifier
+C:\Users\Mitch\OneDrive\Computer Science Files\C Plus\C Plus Spring\Assignments\AssignmentPairs_Bonus\AlbertMitchell_AssignmentPairs.cpp(70,2): error C2065: 's': undeclared identifier
+C:\Users\Mitch\OneDrive\Computer Science Files\C Plus\C Plus Spring\Assignments\AssignmentPairs_Bonus\AlbertMitchell_AssignmentPairs.cpp(76,17): error C2065: 'f': undeclared identifier
+C:\Users\Mitch\OneDrive\Computer Science Files\C Plus\C Plus Spring\Assignments\AssignmentPairs_Bonus\AlbertMitchell_AssignmentPairs.cpp(76,36): error C2065: 's': undeclared identifier
